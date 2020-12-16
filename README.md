@@ -5,7 +5,7 @@ NI offers two file formats for [technical data](https://www.ni.com/de-de/support
 - TDM : xml header plus binary file
 
 For third party they offer the [NI TDM C DLL](https://www.ni.com/content/dam/web/product-documentation/c_dll_tdm.zip) which offers a
-windows dll exporting an ANSI C interface.
+**windows** dll exporting an ANSI C interface.
 
 The interface is described in:
 
