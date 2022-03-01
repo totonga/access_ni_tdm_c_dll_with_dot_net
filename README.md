@@ -44,4 +44,4 @@ You could easily integrate it into you `launchSettings.json` of you viausl Studi
 }
 ````
 
-> NOTE: I did not figutre out how string channels work so the generated methods might be wrong.
+> NOTE: I did not figure out how string channels work so the generated methods might be wrong.
