@@ -36,7 +36,7 @@ Make sure `nilibddc.dll` and the other files from the zip are either
 - copied to the folder of your excutable
 - the path is included in the PATH variable of ouyr process
 
-You could easily integrate it into you `launchSettings.json` of you viausl Studio.
+You could easily integrate it into you `launchSettings.json` of you Visual Studio.
 
 ``` json
 "environmentVariables": {
